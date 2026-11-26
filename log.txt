@@ -1,0 +1,39 @@
+2026-11-25 04:16:51 UTC
+Linux-7.3.4-3-MANJARO-x86_64-with-glibc2.44
+Ren'Py 8.6.1.26111705
+
+Early init took 120 ms
+Loading error handling took 87 ms
+Loading script took 673 ms
+Loading save slot metadata took 38 ms
+Loading persistent took 2 ms
+Running init code took 272 ms
+Loading analysis data took 34 ms
+Analyze and compile ATL took 97 ms
+Reloading save slot metadata took 4 ms
+Dump and make backups took 0 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 162 ms
+Creating interface object took 1 ms
+Init translation took 1 ms
+Cleaning stores took 0 ms
+Load screen analysis took 28 ms
+Analyze screens took 4 ms
+Save screen analysis took 1 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
+﻿Ren'Py 8.6.1.26111705 lint report, generated at: Wed Nov 25 00:16:52 2026
+It is advised to set config.check_conflicting_properties to True.
+
+
+Statistics:
+
+The game contains 10,890 dialogue blocks, containing 73,538 words and 424,867
+characters, for an average of 6.8 words and 39 characters per block.
+
+The game contains 14 menus, 1,040 images, and 34 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.

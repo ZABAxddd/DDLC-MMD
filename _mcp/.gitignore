@@ -1,0 +1,32 @@
+# Archivos compilados de Ren'Py y Python
+*.rpyc
+*.rpymc
+*.rpyb
+*.pyc
+*.pyo
+__pycache__/
+
+# Carpetas temporales y de partidas guardadas
+game/cache/
+game/saves/
+cache/
+saves/
+tmp/
+
+# Registros y errores de ejecución
+log.txt
+errors.txt
+traceback.txt
+
+# Copias de seguridad y borradores
+*.bak
+*~
+
+# Archivos del sistema operativo (Windows / macOS)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores (VS Code, etc.)
+.vscode/
+.idea/

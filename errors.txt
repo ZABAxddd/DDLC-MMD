@@ -1,0 +1,438 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label poem is defined twice, at File "mod_assets/scripts/script-poemgame.rpy", line 401:
+label poem(transition=True):
+and File "poem_game/script-poemgame.rpy", line 84:
+label poem(transition=True):
+
+
+The label poemresponse_start is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1:
+label poemresponse_start:
+and File "poem_responses/script-poemresponses.rpy", line 6:
+label poemresponse_start:
+
+
+The label poemresponse_loop is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 4:
+    label poemresponse_loop:
+and File "poem_responses/script-poemresponses.rpy", line 14:
+    label poemresponse_loop:
+
+
+The label poemresponse_start2 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 16:
+    label poemresponse_start2:
+and File "poem_responses/script-poemresponses.rpy", line 36:
+    label poemresponse_start2:
+
+
+The label ch1_y_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 129:
+label ch1_y_end:
+and File "poem_responses/script-poemresponses.rpy", line 164:
+label ch1_y_end:
+
+
+The label ch2_y_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 188:
+label ch2_y_end:
+and File "poem_responses/script-poemresponses.rpy", line 223:
+label ch2_y_end:
+
+
+The label ch3_y_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 253:
+label ch3_y_end:
+and File "poem_responses/script-poemresponses.rpy", line 292:
+label ch3_y_end:
+
+
+The label ch3_y_end_special is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 288:
+label ch3_y_end_special:
+and File "poem_responses/script-poemresponses.rpy", line 340:
+label ch3_y_end_special:
+
+
+The label ch1_n_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 341:
+label ch1_n_end:
+and File "poem_responses/script-poemresponses.rpy", line 393:
+label ch1_n_end:
+
+
+The label ch2_n_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 375:
+label ch2_n_end:
+and File "poem_responses/script-poemresponses.rpy", line 427:
+label ch2_n_end:
+
+
+The label ch3_n_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 445:
+label ch3_n_end:
+and File "poem_responses/script-poemresponses.rpy", line 498:
+label ch3_n_end:
+
+
+The label ch3_n_end_special is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 476:
+label ch3_n_end_special:
+and File "poem_responses/script-poemresponses.rpy", line 536:
+label ch3_n_end_special:
+
+
+The label ch1_s_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 532:
+label ch1_s_end:
+and File "poem_responses/script-poemresponses.rpy", line 592:
+label ch1_s_end:
+
+
+The label ch2_s_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 566:
+label ch2_s_end:
+and File "poem_responses/script-poemresponses.rpy", line 626:
+label ch2_s_end:
+
+
+The label ch3_s_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 599:
+label ch3_s_end:
+and File "poem_responses/script-poemresponses.rpy", line 660:
+label ch3_s_end:
+
+
+The label ch1_m_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 602:
+label ch1_m_end:
+and File "poem_responses/script-poemresponses.rpy", line 663:
+label ch1_m_end:
+
+
+The label ch1_m_end2 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 604:
+label ch1_m_end2:
+and File "poem_responses/script-poemresponses.rpy", line 666:
+label ch1_m_end2:
+
+
+The label ch2_m_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 633:
+label ch2_m_end:
+and File "poem_responses/script-poemresponses.rpy", line 695:
+label ch2_m_end:
+
+
+The label ch3_m_end is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 665:
+label ch3_m_end:
+and File "poem_responses/script-poemresponses.rpy", line 728:
+label ch3_m_end:
+
+
+The label ch1_n_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 698:
+label ch1_n_bad:
+and File "poem_responses/script-poemresponses.rpy", line 763:
+label ch1_n_bad:
+
+
+The label ch1_n_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 761:
+label ch1_n_med:
+and File "poem_responses/script-poemresponses.rpy", line 828:
+label ch1_n_med:
+
+
+The label ch1_n_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 777:
+label ch1_n_good:
+and File "poem_responses/script-poemresponses.rpy", line 844:
+label ch1_n_good:
+
+
+The label ch2_n_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 813:
+label ch2_n_bad:
+and File "poem_responses/script-poemresponses.rpy", line 880:
+label ch2_n_bad:
+
+
+The label ch2_n_bad_sharedwithch3 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 825:
+        label ch2_n_bad_sharedwithch3:
+and File "poem_responses/script-poemresponses.rpy", line 891:
+        label ch2_n_bad_sharedwithch3:
+
+
+The label ch2_n_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 871:
+label ch2_n_med:
+and File "poem_responses/script-poemresponses.rpy", line 936:
+label ch2_n_med:
+
+
+The label ch2_n_med_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 878:
+        label ch2_n_med_shared:
+and File "poem_responses/script-poemresponses.rpy", line 943:
+        label ch2_n_med_shared:
+
+
+The label ch2_n_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 921:
+label ch2_n_good:
+and File "poem_responses/script-poemresponses.rpy", line 982:
+label ch2_n_good:
+
+
+The label ch2_n_good_sharedwithch3 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 955:
+        label ch2_n_good_sharedwithch3:
+and File "poem_responses/script-poemresponses.rpy", line 1015:
+        label ch2_n_good_sharedwithch3:
+
+
+The label ch3_n_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1095:
+label ch3_n_bad:
+and File "poem_responses/script-poemresponses.rpy", line 1157:
+label ch3_n_bad:
+
+
+The label ch3_n_bad12_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1098:
+        label ch3_n_bad12_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1159:
+        label ch3_n_bad12_shared:
+
+
+The label ch3_n_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1127:
+        label ch3_n_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1185:
+        label ch3_n_shared:
+
+
+The label ch3_n_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1161:
+label ch3_n_med:
+and File "poem_responses/script-poemresponses.rpy", line 1219:
+label ch3_n_med:
+
+
+The label ch3_n_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1186:
+label ch3_n_good:
+and File "poem_responses/script-poemresponses.rpy", line 1244:
+label ch3_n_good:
+
+
+The label ch1_s_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1317:
+label ch1_s_bad:
+and File "poem_responses/script-poemresponses.rpy", line 1371:
+label ch1_s_bad:
+
+
+The label ch1_s_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1327:
+    label ch1_s_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1381:
+    label ch1_s_shared:
+
+
+The label ch1_s_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1354:
+label ch1_s_med:
+and File "poem_responses/script-poemresponses.rpy", line 1408:
+label ch1_s_med:
+
+
+The label ch1_s_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1368:
+label ch1_s_good:
+and File "poem_responses/script-poemresponses.rpy", line 1422:
+label ch1_s_good:
+
+
+The label ch2_s_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1405:
+label ch2_s_bad:
+and File "poem_responses/script-poemresponses.rpy", line 1459:
+label ch2_s_bad:
+
+
+The label ch2_s_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1417:
+    label ch2_s_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1471:
+    label ch2_s_shared:
+
+
+The label ch2_s_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1457:
+label ch2_s_med:
+and File "poem_responses/script-poemresponses.rpy", line 1511:
+label ch2_s_med:
+
+
+The label ch2_s_med_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1468:
+        label ch2_s_med_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1521:
+        label ch2_s_med_shared:
+
+
+The label ch2_s_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1513:
+label ch2_s_good:
+and File "poem_responses/script-poemresponses.rpy", line 1564:
+label ch2_s_good:
+
+
+The label ch3_s_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1638:
+label ch3_s_bad:
+and File "poem_responses/script-poemresponses.rpy", line 1688:
+label ch3_s_bad:
+
+
+The label ch3_s_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1686:
+label ch3_s_med:
+and File "poem_responses/script-poemresponses.rpy", line 1738:
+label ch3_s_med:
+
+
+The label ch3_s_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1689:
+label ch3_s_good:
+and File "poem_responses/script-poemresponses.rpy", line 1741:
+label ch3_s_good:
+
+
+The label ch1_y_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1763:
+label ch1_y_bad:
+and File "poem_responses/script-poemresponses.rpy", line 1816:
+label ch1_y_bad:
+
+
+The label ch1_y_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1794:
+    label ch1_y_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1847:
+    label ch1_y_shared:
+
+
+The label ch1_y_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1824:
+label ch1_y_med:
+and File "poem_responses/script-poemresponses.rpy", line 1877:
+label ch1_y_med:
+
+
+The label ch1_y_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1827:
+label ch1_y_good:
+and File "poem_responses/script-poemresponses.rpy", line 1880:
+label ch1_y_good:
+
+
+The label ch2_y_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1866:
+label ch2_y_bad:
+and File "poem_responses/script-poemresponses.rpy", line 1918:
+label ch2_y_bad:
+
+
+The label ch2_y_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1933:
+        label ch2_y_shared:
+and File "poem_responses/script-poemresponses.rpy", line 1983:
+        label ch2_y_shared:
+
+
+The label ch2_y_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1951:
+label ch2_y_med:
+and File "poem_responses/script-poemresponses.rpy", line 2001:
+label ch2_y_med:
+
+
+The label ch2_y_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1980:
+label ch2_y_good:
+and File "poem_responses/script-poemresponses.rpy", line 2027:
+label ch2_y_good:
+
+
+The label ch2_y_good_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 1990:
+        label ch2_y_good_shared:
+and File "poem_responses/script-poemresponses.rpy", line 2036:
+        label ch2_y_good_shared:
+
+
+The label ch3_y_bad is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2042:
+label ch3_y_bad:
+and File "poem_responses/script-poemresponses.rpy", line 2087:
+label ch3_y_bad:
+
+
+The label ch3_y_bad12_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2044:
+        label ch3_y_bad12_shared:
+and File "poem_responses/script-poemresponses.rpy", line 2089:
+        label ch3_y_bad12_shared:
+
+
+The label ch3_y_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2115:
+        label ch3_y_shared:
+and File "poem_responses/script-poemresponses.rpy", line 2160:
+        label ch3_y_shared:
+
+
+The label ch3_y_med is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2148:
+label ch3_y_med:
+and File "poem_responses/script-poemresponses.rpy", line 2193:
+label ch3_y_med:
+
+
+The label ch3_y_good is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2186:
+label ch3_y_good:
+and File "poem_responses/script-poemresponses.rpy", line 2231:
+label ch3_y_good:
+
+
+The label ch3_y_good_shared is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2227:
+        label ch3_y_good_shared:
+and File "poem_responses/script-poemresponses.rpy", line 2272:
+        label ch3_y_good_shared:
+
+
+The label ch1_m_start is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2321:
+label ch1_m_start:
+and File "poem_responses/script-poemresponses.rpy", line 2365:
+label ch1_m_start:
+
+
+The label ch2_m_start is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2368:
+label ch2_m_start:
+and File "poem_responses/script-poemresponses.rpy", line 2414:
+label ch2_m_start:
+
+
+The label ch3_m_start is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2392:
+label ch3_m_start:
+and File "poem_responses/script-poemresponses.rpy", line 2449:
+label ch3_m_start:
+
+
+The label m_natsuki_1 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2417:
+label m_natsuki_1:
+and File "poem_responses/script-poemresponses.rpy", line 2480:
+label m_natsuki_1:
+
+
+The label m_sayori_1 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2447:
+label m_sayori_1:
+and File "poem_responses/script-poemresponses.rpy", line 2510:
+label m_sayori_1:
+
+
+The label m_yuri_1 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2474:
+label m_yuri_1:
+and File "poem_responses/script-poemresponses.rpy", line 2537:
+label m_yuri_1:
+
+
+The label m_natsuki_2 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2499:
+label m_natsuki_2:
+and File "poem_responses/script-poemresponses.rpy", line 2562:
+label m_natsuki_2:
+
+
+The label m_sayori_2 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2519:
+label m_sayori_2:
+and File "poem_responses/script-poemresponses.rpy", line 2582:
+label m_sayori_2:
+
+
+The label m_yuri_2 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2543:
+label m_yuri_2:
+and File "poem_responses/script-poemresponses.rpy", line 2606:
+label m_yuri_2:
+
+
+The label m_natsuki_3 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2580:
+label m_natsuki_3:
+and File "poem_responses/script-poemresponses.rpy", line 2643:
+label m_natsuki_3:
+
+
+The label m_sayori_3 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2615:
+label m_sayori_3:
+and File "poem_responses/script-poemresponses.rpy", line 2678:
+label m_sayori_3:
+
+
+The label m_yuri_3 is defined twice, at File "mod_assets/scripts/script-poemresponses.rpy", line 2646:
+label m_yuri_3:
+and File "poem_responses/script-poemresponses.rpy", line 2709:
+label m_yuri_3:
+
+
+Ren'Py Version: Ren'Py 8.6.1.26111705
+Tue Nov 24 21:01:51 2026
